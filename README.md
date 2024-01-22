@@ -35,3 +35,7 @@ An experiment to run cobol in kuberneties, or even locally
 Hello World
 [nd@nd-box CobolContainer]$ 
 ```
+
+## Video
+
+![Cobol in a container](assets/cobol.gif)

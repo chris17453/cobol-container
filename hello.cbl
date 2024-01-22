@@ -1,10 +1,6 @@
-*> setup the identification division
-IDENTIFICATION DIVISION.
-*> setup the program id
-PROGRAM-ID. HELLO.
-*> setup the procedure division (like 'main' function)
-PROCEDURE DIVISION.
-  *> print a string
-  DISPLAY 'Hello World'.
-*> end our program
-STOP RUN.
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. HELLO.
+      * This program prints 'Hello World' to the console.
+       PROCEDURE DIVISION.
+           DISPLAY 'Hello World'.
+           STOP RUN.
